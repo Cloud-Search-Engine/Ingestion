@@ -1,0 +1,10 @@
+{
+  "document_id": "azure-blob-storage-overview",
+  "provider": "azure",
+  "service": "blob-storage",
+  "category": "storage",
+  "document_type": "developer_documentation",
+  "title": "Azure Blob Storage Overview",
+  "source_url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction",
+  "version": "current"
+}

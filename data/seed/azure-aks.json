@@ -1,0 +1,10 @@
+{
+  "document_id": "azure-aks-overview",
+  "provider": "azure",
+  "service": "aks",
+  "category": "containers",
+  "document_type": "developer_documentation",
+  "title": "Azure Kubernetes Service Overview",
+  "source_url": "https://learn.microsoft.com/en-us/azure/aks/intro-kubernetes",
+  "version": "current"
+}

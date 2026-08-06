@@ -1,0 +1,10 @@
+{
+  "document_id": "azure-service-bus-overview",
+  "provider": "azure",
+  "service": "service-bus",
+  "category": "messaging",
+  "document_type": "developer_documentation",
+  "title": "Azure Service Bus Overview",
+  "source_url": "https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview",
+  "version": "current"
+}

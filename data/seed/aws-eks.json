@@ -1,0 +1,10 @@
+{
+  "document_id": "aws-eks-overview",
+  "provider": "aws",
+  "service": "eks",
+  "category": "containers",
+  "document_type": "developer_documentation",
+  "title": "Amazon EKS Overview",
+  "source_url": "https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html",
+  "version": "current"
+}

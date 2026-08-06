@@ -1,0 +1,10 @@
+{
+  "document_id": "aws-s3-overview",
+  "provider": "aws",
+  "service": "s3",
+  "category": "storage",
+  "document_type": "developer_documentation",
+  "title": "Amazon S3 Overview",
+  "source_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+  "version": "current"
+}

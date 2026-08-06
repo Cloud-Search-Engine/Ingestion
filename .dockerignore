@@ -1,0 +1,10 @@
+.git
+.gitignore
+bin/
+dist/
+.tmp/
+.idea/
+.vscode/
+*.test
+coverage.out
+Makefile

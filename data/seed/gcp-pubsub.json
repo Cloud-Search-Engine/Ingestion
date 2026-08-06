@@ -1,0 +1,10 @@
+{
+  "document_id": "gcp-pubsub-overview",
+  "provider": "gcp",
+  "service": "pubsub",
+  "category": "messaging",
+  "document_type": "developer_documentation",
+  "title": "Google Cloud Pub/Sub Overview",
+  "source_url": "https://cloud.google.com/pubsub/docs/overview",
+  "version": "current"
+}

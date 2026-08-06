@@ -1,0 +1,10 @@
+{
+  "document_id": "aws-sqs-overview",
+  "provider": "aws",
+  "service": "sqs",
+  "category": "messaging",
+  "document_type": "developer_documentation",
+  "title": "Amazon SQS Overview",
+  "source_url": "https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html",
+  "version": "current"
+}
